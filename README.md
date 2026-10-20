@@ -1,6 +1,6 @@
 # SysDoctor — AI-Powered System Health Monitor and Troubleshooter using LLM and RAG
 
-**Maha Vignesh Shree N · 24BCE2736 · Operating Systems / Artificial Intelligence**
+**Maha Vignesh Shree N · Operating Systems / Artificial Intelligence**
 
 SysDoctor watches your computer's CPU, memory, swap, disk and processes, detects and predicts
 problems, explains them in plain language using OS concepts (grounded in a RAG knowledge base), guides
