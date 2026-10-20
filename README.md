@@ -113,3 +113,11 @@ stress_tests/          controlled problem generators
 evaluation/evaluate.py evaluation metrics
 tests/                 unit tests
 ```
+
+## Screenshots
+<img width="2850" height="1516" alt="Screenshot 2026-10-20 231801" src="https://github.com/user-attachments/assets/25d23630-9779-4c69-a9f8-5a0061679ab7" />
+<img width="2838" height="1524" alt="Screenshot 2026-10-20 231749" src="https://github.com/user-attachments/assets/90dcf33e-823a-4179-95e4-46b434dfdbe0" />
+<img width="2846" height="1518" alt="Screenshot 2026-10-20 231736" src="https://github.com/user-attachments/assets/901e3aef-0cf3-4ee4-a80c-bc15477e74b8" />
+<img width="2854" height="1522" alt="Screenshot 2026-10-20 231721" src="https://github.com/user-attachments/assets/5b5225e4-3192-4a9e-82df-9475a8fedccd" />
+<img width="2884" height="1500" alt="Screenshot 2026-10-20 231703" src="https://github.com/user-attachments/assets/8ad6409c-af7c-40d7-8f03-676fab12fcd8" />
+
